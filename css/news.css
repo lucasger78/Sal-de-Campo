@@ -96,7 +96,34 @@
         height: 40px;
         /* opacity: 0.5; */
         margin: 10px;
+        transition: all .5s ease;
     }
+
+    .redes-logos:hover{
+        transform: translate(2px);
+    }
+    
+    .ig:hover{
+        border: dotted 2px rgb(199, 98, 3);
+        box-shadow: 2px 2px 2px rgb(219, 36, 51); 
+        border-radius: 20px; 
+    }
+    
+    .tk:hover{
+        border: dotted 2px rgb(53, 240, 240);
+        box-shadow: 2px 2px 2px rgb(219, 36, 51); 
+        border-radius: 10px; 
+    }
+    
+    .wts:hover{
+        border: dotted 2px rgb(255, 255, 255);
+        box-shadow: 2px 2px 2px rgb(20, 196, 122); 
+        border-radius: 50px; 
+    }
+    
+    .mail-text{
+        color: rgb(199, 98, 3);
+    }  
 
     .logoSC{
         margin-left: -10px;
@@ -132,9 +159,7 @@
         display: flex;
         /* max-height: 1000%; */
         margin-left: 45%;
-        margin-top: 50%;
-        
-        
+        margin-top: 50%;      
     }
     
     .redes-logos{
@@ -142,7 +167,35 @@
         height: 40px;
         /* opacity: 0.5; */
         margin: 10px;
+        transition: all .5s ease;
     }
+
+    .redes-logos:hover{
+        transform: translate(2px);
+    }
+    
+    .ig:hover{
+        border: dotted 2px rgb(199, 98, 3);
+        box-shadow: 2px 2px 2px rgb(219, 36, 51); 
+        border-radius: 20px; 
+    }
+    
+    .tk:hover{
+        border: dotted 2px rgb(53, 240, 240);
+        box-shadow: 2px 2px 2px rgb(219, 36, 51); 
+        border-radius: 10px; 
+    }
+    
+    .wts:hover{
+        border: dotted 2px rgb(255, 255, 255);
+        box-shadow: 2px 2px 2px rgb(20, 196, 122); 
+        border-radius: 50px; 
+    }
+    
+    .mail-text{
+        color: rgb(199, 98, 3);
+    }
+    
 
     .logoSC{
         margin-left: 110%;
